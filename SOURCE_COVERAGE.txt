@@ -1,0 +1,1 @@
+This ZIP is organized to cover the topics visible in the two supplied photos: Objective, Description, Patient/Doctor/Admin responsibilities, core modules, API route design, database tables (Users, Records, Shares, AccessLogs, DocNotes), security/privacy considerations, technology stack, and deliverables.
